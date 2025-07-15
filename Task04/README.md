@@ -119,8 +119,8 @@ pip install streamlit==1.38.0 langchain==0.2.16 langchain-community==0.2.16 fais
 ## Contact
 For questions, feedback, or collaboration, please reach out:
 
-- **Email**: [Your Email](mailto:muhammadusman.becsef22@iba-suk.edu.pk)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-usman-018535253)
-- **GitHub**: [Your GitHub Profile](https://www.github.com/Usmansarwar143)
+- **Email**: [My Email](mailto:muhammadusman.becsef22@iba-suk.edu.pk)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-usman-018535253)
+- **GitHub**: [My GitHub Profile](https://www.github.com/Usmansarwar143)
 
 Contributions and suggestions are welcome! Please create an issue or submit a pull request.
